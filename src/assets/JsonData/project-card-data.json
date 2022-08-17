@@ -1,0 +1,47 @@
+[
+  {
+    "icon": "bx bxl-facebook",
+    "success": "97",
+    "title": "Facebook"
+  },
+  {
+    "icon": "bx bxl-messenger",
+    "success": "94",
+    "title": "Messenger"
+  },
+  {
+    "icon": "bx bxl-instagram",
+    "success": "99",
+    "title": "Instagram"
+  },
+  {
+    "icon": "bx bxl-twitter",
+    "success": "92",
+    "title": "Twitter"
+  },
+  {
+    "icon": "bx bxl-reddit",
+    "success": "97",
+    "title": "Reddit"
+  },
+  {
+    "icon": "bx bxl-discord",
+    "success": "84",
+    "title": "Discord"
+  },
+  {
+    "icon": "bx bxl-youtube",
+    "success": "86",
+    "title": "Youtube"
+  },
+  {
+    "icon": "bx bxl-amazon",
+    "success": "90",
+    "title": "Amazon"
+  },
+  {
+    "icon": "bx bxl-github",
+    "success": "89",
+    "title": "Github"
+  }
+]
